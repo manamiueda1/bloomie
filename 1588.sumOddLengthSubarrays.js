@@ -16,3 +16,15 @@ var sumOddLengthSubarrays = function(arr) {
     }
     return counter
 };
+
+// optimized (need to review)
+// var sumOddLengthSubarrays = function(arr) {
+//     sum = 0;
+//     var l = arr.length;
+
+//     for(var i=0;i<arr.length;i++) {
+//         sum += Math.floor(((i + 1) * (l - i) +
+//                  1) / 2) * arr[i];
+//     }
+//     return sum
+// };
