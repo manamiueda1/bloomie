@@ -2,7 +2,7 @@
 
 * Monday June 21, 2021
 1. Two Sum: https://leetcode.com/problems/two-sum/
-167. Two Sum II - Input array is sorted: 
+167. Two Sum II - Input array is sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 * Tuesday June 22, 2021 
 20. Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
