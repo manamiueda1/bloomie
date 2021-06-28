@@ -34,7 +34,8 @@
 1656. Design an Ordered Stream: https://leetcode.com/problems/design-an-ordered-stream/
 
 * Thursday July 1, 2021 
-1588. Sum of All Odd Length Subarrays: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+977. Squares of a Sorted Array: https://leetcode.com/problems/squares-of-a-sorted-array/
+
 
 * Friday July 2, 2021
 942. DI String Match: https://leetcode.com/problems/di-string-match/
