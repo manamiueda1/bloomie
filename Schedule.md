@@ -30,6 +30,8 @@
 * Tuesday June 29, 2021 
 1614. Maximum Nesting Depth of the Parentheses: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 
+215. Kth Largest Element in an Array: https://leetcode.com/problems/kth-largest-element-in-an-array/
+
 * Wednesday June 30, 2021 
 1656. Design an Ordered Stream: https://leetcode.com/problems/design-an-ordered-stream/
 
