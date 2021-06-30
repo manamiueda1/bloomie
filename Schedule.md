@@ -33,9 +33,10 @@
 * Wednesday June 30, 2021 
 1656. Design an Ordered Stream: https://leetcode.com/problems/design-an-ordered-stream/
 
+1332. Remove Palindromic Subsequences: https://leetcode.com/problems/remove-palindromic-subsequences/
+
 * Thursday July 1, 2021 
 977. Squares of a Sorted Array: https://leetcode.com/problems/squares-of-a-sorted-array/
-
 
 * Friday July 2, 2021
 942. DI String Match: https://leetcode.com/problems/di-string-match/
