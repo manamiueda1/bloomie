@@ -42,6 +42,7 @@
 
 * Friday July 2, 2021
 942. DI String Match: https://leetcode.com/problems/di-string-match/
+242. Valid Anagram: https://leetcode.com/problems/valid-anagram/
 
 * Saturday July 3, 2021 
 1047. Remove All Adjacent Duplicates In String: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
@@ -49,7 +50,28 @@
 * Sunday July 4, 2021 
 852. Peak Index in a Mountain Array: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
+# Week 3
 
+* Monday July 5, 2021
+226. Invert Binary Tree: https://leetcode.com/problems/invert-binary-tree/
+
+* Tuesday July 6, 2021
+509. Fibonacci Number: https://leetcode.com/problems/fibonacci-number/
+
+* Wednesday July 7, 2021
+94. Binary Tree Inorder Traversal: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+* Thursday July 8, 2021
+349. Intersection of Two Arrays: https://leetcode.com/problems/intersection-of-two-arrays/
+
+* Friday July 9, 2021
+1025. Divisor Game: https://leetcode.com/problems/divisor-game/
+
+* Saturday July 10, 2021
+175. Combine Two Tables: https://leetcode.com/problems/combine-two-tables/
+
+* Sunday July 11, 2021
+169. Majority Element: https://leetcode.com/problems/majority-element/
 
 
 
