@@ -73,7 +73,28 @@
 * Sunday July 11, 2021
 169. Majority Element: https://leetcode.com/problems/majority-element/
 
+# Week 4
 
+* Monday July 12, 2021
+1534. Count Good Triplets: https://leetcode.com/problems/count-good-triplets/
+
+* Tuesday July 13, 2021
+283. Move Zeroes: https://leetcode.com/problems/move-zeroes/
+
+* Wednesday July 14, 2021
+183. Customers Who Never Order: https://leetcode.com/problems/customers-who-never-order/
+
+* Thursday July 15, 2021
+13. Roman to Integer: https://leetcode.com/problems/roman-to-integer/
+
+* Friday July 16, 2021
+21. Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
+
+* Saturday July 17, 2021
+448. Find All Numbers Disappeared in an Array: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+
+* Sunday July 18, 2021
+252. Meeting Rooms: https://leetcode.com/problems/meeting-rooms/
 
 
 
