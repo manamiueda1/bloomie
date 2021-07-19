@@ -68,7 +68,7 @@
 1025. Divisor Game: https://leetcode.com/problems/divisor-game/
 
 * Saturday July 10, 2021
-175. Combine Two Tables: https://leetcode.com/problems/combine-two-tables/
+1408. String Matching in an Array: https://leetcode.com/problems/string-matching-in-an-array/
 
 * Sunday July 11, 2021
 169. Majority Element: https://leetcode.com/problems/majority-element/
@@ -82,7 +82,7 @@
 283. Move Zeroes: https://leetcode.com/problems/move-zeroes/
 
 * Wednesday July 14, 2021
-183. Customers Who Never Order: https://leetcode.com/problems/customers-who-never-order/
+191. Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/
 
 * Thursday July 15, 2021
 13. Roman to Integer: https://leetcode.com/problems/roman-to-integer/

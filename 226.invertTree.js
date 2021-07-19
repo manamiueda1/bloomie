@@ -22,4 +22,12 @@ var invertTree = function(root) {
 //     root.right = invertTree(tmp);
 // }
 // return root;
+
+
+   // if (root !== null) {
+    //     const tmp = node.left;
+    //     root.left = invertTree(root.right);
+    //     root.right = invertTree(tmp);
+    // }
+    // return root;
 }
