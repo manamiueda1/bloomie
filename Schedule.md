@@ -96,5 +96,31 @@
 * Sunday July 18, 2021
 252. Meeting Rooms: https://leetcode.com/problems/meeting-rooms/
 
+# Week 5
 
+* Monday July 19, 2021
+543. Diameter of Binary Tree: https://leetcode.com/problems/diameter-of-binary-tree/
+
+* Tuessday July 20, 2021
+257. Binary Tree Paths: https://leetcode.com/problems/binary-tree-paths/
+
+* Wednesday July 21, 2021
+697. Degree of an Array: https://leetcode.com/problems/degree-of-an-array/
+
+* Thursday July 22, 2021
+121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+* Friday July 23, 2021
+202. Happy Number: https://leetcode.com/problems/happy-number/
+
+* Saturday July 24, 2021
+9. Palindrome Number: https://leetcode.com/problems/palindrome-number/
+
+* Sunday July 25, 2021
+993. Cousins in Binary Tree: https://leetcode.com/problems/cousins-in-binary-tree/
+
+# Week 6
+
+* Monday July 26, 2021
+387. First Unique Character in a String: https://leetcode.com/problems/first-unique-character-in-a-string/
 
