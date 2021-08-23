@@ -124,3 +124,41 @@
 * Monday July 26, 2021
 387. First Unique Character in a String: https://leetcode.com/problems/first-unique-character-in-a-string/
 
+* Tuesday July 27, 2021
+217. Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
+
+* Wednesday July 28, 2021
+389. Find the Difference: https://leetcode.com/problems/find-the-difference/
+
+* Thursday July 29, 2021
+101. Symmetric Tree: https://leetcode.com/problems/symmetric-tree/
+
+* Friday July 30, 2021
+70. Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
+
+* Saturday July 31, 2021
+53. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/
+
+155. Min Stack: https://leetcode.com/problems/min-stack/
+
+463. Island Perimeter: https://leetcode.com/problems/island-perimeter/
+
+141. Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/
+
+203. Remove Linked List Elements: https://leetcode.com/problems/remove-linked-list-elements/
+
+125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
+
+680. Valid Palindrome II: https://leetcode.com/problems/valid-palindrome-ii/
+
+14. Longest Common Prefix: https://leetcode.com/problems/longest-common-prefix/
+
+69. Sqrt(x): https://leetcode.com/problems/sqrtx/
+
+28. Implement strStr(): https://leetcode.com/problems/implement-strstr/
+
+58. Length of Last Word: https://leetcode.com/problems/length-of-last-word/
+
+7. Reverse Integer: https://leetcode.com/problems/reverse-integer/
+
+193. Valid Phone Numbers: https://leetcode.com/problems/valid-phone-numbers/
