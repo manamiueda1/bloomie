@@ -110,13 +110,15 @@
 * Thursday July 22, 2021
 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-* Friday July 23, 2021
+<!-- need to complete -->
+* Friday July 23, 2021 
 202. Happy Number: https://leetcode.com/problems/happy-number/
 
 * Saturday July 24, 2021
 9. Palindrome Number: https://leetcode.com/problems/palindrome-number/
 
-* Sunday July 25, 2021
+<!-- need to complete -->
+* Sunday July 25, 2021 
 993. Cousins in Binary Tree: https://leetcode.com/problems/cousins-in-binary-tree/
 
 # Week 6
@@ -142,27 +144,27 @@
 
 
 
-
+<!-- need to complete -->
 155. Min Stack: https://leetcode.com/problems/min-stack/
-
+<!-- need to complete -->
 463. Island Perimeter: https://leetcode.com/problems/island-perimeter/
-
+<!-- need to complete -->
 141. Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/
-
+<!-- need to complete -->
 203. Remove Linked List Elements: https://leetcode.com/problems/remove-linked-list-elements/
-
+<!-- need to complete -->
 125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
-
+<!-- need to complete -->
 680. Valid Palindrome II: https://leetcode.com/problems/valid-palindrome-ii/
-
+<!-- need to complete -->
 14. Longest Common Prefix: https://leetcode.com/problems/longest-common-prefix/
-
+<!-- need to complete -->
 69. Sqrt(x): https://leetcode.com/problems/sqrtx/
-
+<!-- need to complete -->
 28. Implement strStr(): https://leetcode.com/problems/implement-strstr/
-
+<!-- need to complete -->
 58. Length of Last Word: https://leetcode.com/problems/length-of-last-word/
-
+<!-- need to complete -->
 7. Reverse Integer: https://leetcode.com/problems/reverse-integer/
-
+<!-- need to complete -->
 193. Valid Phone Numbers: https://leetcode.com/problems/valid-phone-numbers/
