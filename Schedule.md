@@ -162,7 +162,7 @@
 69. Sqrt(x): https://leetcode.com/problems/sqrtx/
 <!-- need to complete -->
 28. Implement strStr(): https://leetcode.com/problems/implement-strstr/
-<!-- need to complete -->
+
 58. Length of Last Word: https://leetcode.com/problems/length-of-last-word/
 <!-- need to complete -->
 7. Reverse Integer: https://leetcode.com/problems/reverse-integer/
