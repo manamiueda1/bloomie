@@ -152,11 +152,11 @@
 141. Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/
 <!-- need to complete -->
 203. Remove Linked List Elements: https://leetcode.com/problems/remove-linked-list-elements/
-<!-- need to complete -->
+
 125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
 <!-- need to complete -->
 680. Valid Palindrome II: https://leetcode.com/problems/valid-palindrome-ii/
-<!-- need to complete -->
+
 14. Longest Common Prefix: https://leetcode.com/problems/longest-common-prefix/
 <!-- need to complete -->
 69. Sqrt(x): https://leetcode.com/problems/sqrtx/
